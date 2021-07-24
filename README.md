@@ -1,3 +1,3 @@
-# first_repository
-My first repository
+****
+Daily profit calculator
 ****
